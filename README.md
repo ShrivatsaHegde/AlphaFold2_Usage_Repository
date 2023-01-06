@@ -9,7 +9,7 @@ Welcome to the AlphaFold structure prediction Colabfold!!! This is designed to p
 ### To get started, follow these steps:
 
 To access the AlphaFold structure prediction colabfold, start by signing into your Google account and visiting https://google.com.
-Then, download the AlphaFold.ipynb file onto your computer and upload it to your Google Drive. 
+Then, download the **AlphaFold.ipynb** file onto your computer and upload it to your Google Drive. 
 From there, simply open the file from your Google Drive to launch it in the Google Colab environment.
 After launching the AlphaFold software in the Google Colab environment, the next step is to provide the input for structure prediction. 
 This input is a FASTA sequence containing the amino acid sequence of the protein that you want to predict the structure of.
