@@ -1,12 +1,12 @@
-#Colab AlphaFold2 Usage Repository
+# Colab AlphaFold2 Usage Repository
 
 AlphaFold Structure Prediction Software
 
 Welcome to the AlphaFold structure prediction Colabfold!!! This is designed to predict the 3D structure of proteins based on their amino acid sequence using MMseqs2. It is implemented in Google Colab and can be run in a web browser.
 
-##Getting Started
+## Getting Started
 
-###To get started, follow these steps:
+### To get started, follow these steps:
 
 To access the AlphaFold structure prediction colabfold, start by signing into your Google account and visiting https://google.com.
 Then, download the AlphaFold.ipynb file onto your computer and upload it to your Google Drive. 
@@ -18,7 +18,10 @@ There are several options available to customize the process, so I selected the 
 For Multiple Sequence Alignment, a software program called MMseqs2 is used to quickly and precisely align and search protein sequences. Proteomics and bioinformatics research frequently use this tool, which is made to be quick, sensitive, and accurate.
 
 Once you have completed all the steps in the advanced settings, you can choose the modeling tool that you want to use. There are three options available:
-**1) AlphaFold2-ptm:**It is intended to forecast protein's transmembrane topology, which describes how the transmembrane segments of a protein are arranged and oriented within the membrane.
+
+
+**1) AlphaFold2-ptm:** It is intended to forecast protein's transmembrane topology, which describes how the transmembrane segments of a protein are arranged and     oriented within the membrane.
+
 **2) AlphaFold-multimer-v [1,2] :** The AlphaFold software suite includes tools called AlphaFold-multimer-v [1,2]. They are intended to forecast the multi-subunit proteins' quaternary structure, which describes how the protein's subunits are arranged within the larger protein complex.
   After that whether or not to add this file to your Drive. You can simply choose the **"save_to_google_drive"** option if you want to.
 To start the prediction process, go to the 'Runtime' menu in the Google Colab environment and select the **'Run All'** option.
@@ -38,7 +41,7 @@ Upon completion, the colab will also produce a ZIP file that can be downloaded t
 As previously mentioned, the predicted ZIP file for the job "ShakthiAlphafold" is included in this repository. You can access this file to view all of the predicted protein structures, which are in PDB format. Alternatively, you can download the ZIP file to your computer and unzip it to access the individual predicted structures.
 
 
-##Acknowledgment
+## Acknowledgment
 
 Using AlphaFold has been a truly enlightening experience for me. The software's ability to accurately predict protein structures is truly impressive, and it has opened up new possibilities for understanding protein function and design.
 
